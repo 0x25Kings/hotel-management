@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@theme{--color-primary:#1F3A5F;--color-secondary:#4F6D8A;--color-accent:#D4A373;--color-surface:#F8F9FA;--color-ink:#1F2937;--color-muted:#6B7280;--color-ok:#2E7D32;--color-warn:#D97706;--color-bad:#DC2626;--font-sans:"Inter",system-ui,sans-serif;--font-display:"Playfair Display",Georgia,serif}
+body{background:#F8F9FA;color:#1F2937;font-family:var(--font-sans);-webkit-font-smoothing:antialiased}
+h1,h2{font-family:var(--font-display);letter-spacing:-0.01em}
+h3{font-weight:600}
